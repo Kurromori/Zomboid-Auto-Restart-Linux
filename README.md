@@ -2,15 +2,16 @@
 
 This is a Project Zomboid auto restart script I made for those who created a dedicated server in Linux.
 
-## How it works
-
-- The [Udderly Up To Date](https://steamcommunity.com/sharedfiles/filedetails/?id=2844315442) shuts down the server and ultimately the process if it finds a mod has been updated. Which is then detected by the auto-restart.sh. Since the script is trying to find whether the process start-server.sh is running.  It has two decisions. If it is not running it will start the server, If it is running it will sleep for n amount of time until it detects that the process is not running.
-
 ## Requirements
 
  - [Udderly Up To Date](https://steamcommunity.com/sharedfiles/filedetails/?id=2844315442)
  - My scripts
  - Screen
+ - 
+## How it works
+
+- The [Udderly Up To Date](https://steamcommunity.com/sharedfiles/filedetails/?id=2844315442) shuts down the server and ultimately the process if it finds a mod has been updated. Which is then detected by the auto-restart.sh. Since the script is trying to find whether the process start-server.sh is running.  It has two decisions. If it is not running it will start the server, If it is running it will sleep for n amount of time until it detects that the process is not running.
+
 ## Tutorial
 - Add [Udderly Up To Date](https://steamcommunity.com/sharedfiles/filedetails/?id=2844315442) to the mods.
 
