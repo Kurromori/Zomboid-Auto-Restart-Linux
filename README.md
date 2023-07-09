@@ -1,6 +1,6 @@
 # Zomboid-Auto-Restart-Linux
 
-This is a Project Zomboid auto restart script I made for those who created the dedicated server in Linux.
+This is a Project Zomboid auto restart script I made for those who created a dedicated server in Linux.
 
 
 
