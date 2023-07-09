@@ -10,6 +10,7 @@ This is a Project Zomboid auto restart script I made for those who created a ded
 
  - [Udderly Up To Date](https://steamcommunity.com/sharedfiles/filedetails/?id=2844315442)
  - My scripts
+ - Screen
 ## Tutorial
 
 - Place both the auto-restart.sh and start-server.sh to anywhere you want. Open up the (start-server.sh) script and modify it. Change the directory to where your project zomboid server (start-server.sh) is located and the servername to the name you want. This provides an easy execution when trying to start or restarting the server.
